@@ -1,0 +1,6 @@
+name: My Great Theme
+type: theme
+description: 'This is my first theme project.'
+core_version_requirement: ^10
+base theme: stable9
+screenshot: mytheme.png
